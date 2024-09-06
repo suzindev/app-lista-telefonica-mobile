@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista Telefônica</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="mantenha_me_conectado">Mantenha-me conectado</string>
+    <string name="login">Login</string>
+    <string name="inscrever_se">Não tem conta? Inscrever-se!</string>
+    <string name="recupere_sua_senha">Recupere sua senha</string>
+    <string name="confirm_password">Confirme sua senha</string>
+    <string name="signup">Inscrever-se</string>
+</resources>
