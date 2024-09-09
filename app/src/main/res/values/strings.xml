@@ -8,4 +8,5 @@
     <string name="recupere_sua_senha">Recupere sua senha</string>
     <string name="confirm_password">Confirme sua senha</string>
     <string name="signup">Inscrever-se</string>
+    <string name="sair">Sair</string>
 </resources>
